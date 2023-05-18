@@ -1,0 +1,8 @@
+This is version 1 of my project!
+
+
+I want this to move to next commit 2
+
+testing phase 2 first change
+
+This is the 4th modification of this file
